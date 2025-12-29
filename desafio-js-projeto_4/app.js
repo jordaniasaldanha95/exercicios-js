@@ -10,7 +10,7 @@ linguagensDeProgramacao.push('Java', 'Ruby', 'GoLang');
 console.log(linguagensDeProgramacao);
 
 //QUESTÃO 4
-let listaNomes =['Gabriel','Pikachu', 'Mewtwo'];
+let listaNomes =['Gabriel','Pikachu', 'Mewtwo', 'Kika', 'Mew', 'Pedgeot', 'Raichu'];
 console.log(listaNomes[0]);
 
 //QUESTÃO 5
